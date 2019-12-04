@@ -1,0 +1,7 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    background-color: lightgray;
+    padding: 15px 70px;
+}

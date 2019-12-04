@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+.header__text {
+    margin-left: 20px;
+}
