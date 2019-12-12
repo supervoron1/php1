@@ -4,10 +4,10 @@
 echo '<u>Задание 1</u><br>';
 $i = 0;
 while ($i <= 100) {
-	$i++;
-	if ($i % 3 == 0) {
+	if ($i % 3 === 0) {
 		echo $i . ' ';
 	}
+	$i++;
 }
 // Задание 2
 // С помощью цикла do…while написать функцию для вывода чисел от 0 до 10, чтобы результат выглядел так:
@@ -20,10 +20,10 @@ $i = 0;
 do {
 	if ($i == 0) {
 		echo $i . '– это ноль<br>';
-	} else if ($i % 2 == 0) {
-		echo $i . '- чётное число<br>';
-	} else {
+	} else if ($i & 1 != 0) {
 		echo $i . '- нечётное число<br>';
+	} else {
+		echo $i . '- чётное число<br>';
 	}
 	$i++;
 } while ($i <= 10);
@@ -42,14 +42,17 @@ $arrayCity = [
 	'Ленинградская область' => ['Санкт-Петербург', 'Всеволожск', 'Павловск', 'Кронштадт'],
 	'Рязанская область' => ['Скопин', 'Касимов', 'Рыбное', 'Кораблино'],
 ];
-$i = 0;
-foreach ($arrayCity as $key => $cites) {
+
+foreach ($arrayCity as $key => $region) {
 	echo $key . ': <br>';
-	for ($i = 0; $i < count($cites); $i++) {
-		echo $cites[$i] . ', ';
+	$str = '';
+	foreach ($region as $city) {
+		$str .= $city . ', ';
 	}
-	echo '<br>';
+	$str = mb_substr($str, 0, -2) . '<br>';
+	echo "$str <br>";
 }
+
 
 // Задание 4
 //Объявить массив, индексами которого являются буквы русского языка, а значениями –
@@ -180,15 +183,16 @@ for ($i = 0; $i <= 9; print $i++ . ' ') {
 // Задание 8*
 // Повторить третье задание, но вывести на экран только города, начинающиеся с буквы «К».
 echo '<hr><u>Задание 8</u><br>';
-$i = 0;
-foreach ($arrayCity as $key => $cites) {
+foreach ($arrayCity as $key => $region) {
 	echo $key . ': <br>';
-	for ($i = 0; $i < count($cites); $i++) {
-		if (mb_substr($cites[$i], 0, 1) == 'К') {
-			echo $cites[$i] . ', ';
+	$str = '';
+	foreach ($region as $city) {
+		if (mb_substr($city, 0, 1, 'utf-8') === 'К') {
+			$str .= $city . ', ';
 		}
 	}
-	echo '<br>';
+	$str = mb_substr($str, 0, -2) . '<br>';
+	echo "$str <br>";
 }
 
 // Задание 9*
