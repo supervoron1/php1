@@ -1,22 +1,16 @@
 <?php
 function getGallery()
 {
-	$img = getAssocResult("SELECT * FROM gallery", "gallery");
+	$img = getAssocResult("SELECT * FROM gallery ORDER BY views DESC");
 	return $img;
 }
 
 function getGalleryImg($id)
 {
 	$id = (int)$id;
-	viewsUpdate($id);
 	$sql = "SELECT * FROM gallery WHERE id = {$id}";
-	$img = getAssocResult($sql, "gallery");
-
-
-	$result = [];
-	if (isset($img[0]))
-		$result = $img[0];
-	return $result;
+	$img = getAssocResult($sql);
+	return $img[0];
 }
 
 function viewsUpdate($id) {

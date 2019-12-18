@@ -60,8 +60,9 @@ function prepareVariables($page)
 			break;
 		case 'image':
 			$params = [
-				'img' => getGalleryImg($_GET['id'])
+				'img' => getGalleryImg($_GET['id']),
 			];
+			viewsUpdate($_GET['id']);
 			break;
 	}
 	return $params;
