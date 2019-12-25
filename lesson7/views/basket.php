@@ -1,6 +1,5 @@
 <h2>Корзина</h2>
 Вы выбрали товаров на общую сумму: <span id="summ"><?=$summ?></span><br><br>
-<div id="counter"><?=$count?></div>
 <div class="basket">
 <?foreach ($basket as $item):?>
     <div id="item_<?=$item['basket_id']?>" class="item">

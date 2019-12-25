@@ -17414,3 +17414,103 @@ Array
 
 
 
+### 25.12.2019 17:13:28
+Array
+(
+    [count] => 7
+)
+
+
+
+### 25.12.2019 17:13:29
+Array
+(
+    [count] => 7
+)
+
+
+
+### 25.12.2019 17:13:30
+Array
+(
+    [count] => 7
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 99
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 102
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 1420
+)
+
+
+
+### 25.12.2019 17:13:32
+Array
+(
+    [count] => 7
+)
+
+
+
