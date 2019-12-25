@@ -10770,3 +10770,6647 @@ Array
 
 
 
+### 25.12.2019 14:23:11
+Array
+(
+    [count] => 4
+)
+
+
+
+### 25.12.2019 14:23:12
+Array
+(
+    [count] => 4
+)
+
+
+
+### 25.12.2019 14:23:13
+Array
+(
+    [count] => 4
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 56
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 57
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 59
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+        )
+
+    [summ] => 770
+)
+
+
+
+### 25.12.2019 14:23:14
+Array
+(
+    [count] => 4
+)
+
+
+
+### 25.12.2019 14:29:29
+Array
+(
+    [count] => 4
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 56
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 57
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 59
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+        )
+
+    [summ] => 770
+)
+
+
+
+### 25.12.2019 14:29:30
+Array
+(
+    [count] => 4
+)
+
+
+
+### 25.12.2019 14:40:21
+Array
+(
+    [count] => 3
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 56
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 59
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+        )
+
+    [summ] => 620
+)
+
+
+
+### 25.12.2019 14:40:21
+Array
+(
+    [count] => 3
+)
+
+
+
+### 25.12.2019 14:41:04
+Array
+(
+    [count] => 3
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 56
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 59
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+        )
+
+    [summ] => 620
+)
+
+
+
+### 25.12.2019 14:41:05
+Array
+(
+    [count] => 3
+)
+
+
+
+### 25.12.2019 14:41:06
+Array
+(
+    [count] => 3
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 56
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 59
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+        )
+
+    [summ] => 620
+)
+
+
+
+### 25.12.2019 14:41:06
+Array
+(
+    [count] => 3
+)
+
+
+
+### 25.12.2019 14:41:20
+Array
+(
+    [count] => 2
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 56
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 450
+)
+
+
+
+### 25.12.2019 14:41:21
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 14:41:21
+Array
+(
+    [count] => 2
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 56
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 450
+)
+
+
+
+### 25.12.2019 14:41:28
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 14:41:59
+Array
+(
+    [count] => 1
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 300
+)
+
+
+
+### 25.12.2019 14:41:59
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 14:42:14
+Array
+(
+    [count] => 1
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 14:42:15
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 14:42:17
+Array
+(
+    [count] => 2
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 60
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 400
+)
+
+
+
+### 25.12.2019 14:42:18
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 14:43:07
+Array
+(
+    [count] => 2
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 60
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 400
+)
+
+
+
+### 25.12.2019 14:43:08
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 14:43:23
+Array
+(
+    [count] => 1
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 300
+)
+
+
+
+### 25.12.2019 14:43:24
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 14:43:27
+Array
+(
+    [count] => 1
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 14:43:30
+Array
+(
+    [count] => 3
+)
+
+
+
+### 25.12.2019 14:43:34
+Array
+(
+    [count] => 5
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 61
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 62
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 63
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 64
+                    [good_id] => 7
+                    [name] => Платье
+                    [price] => 190
+                    [image] => shirt5.jpg
+                )
+
+        )
+
+    [summ] => 910
+)
+
+
+
+### 25.12.2019 14:43:35
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 14:48:14
+Array
+(
+    [count] => 2
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 64
+                    [good_id] => 7
+                    [name] => Платье
+                    [price] => 190
+                    [image] => shirt5.jpg
+                )
+
+        )
+
+    [summ] => 490
+)
+
+
+
+### 25.12.2019 14:48:15
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 14:48:31
+Array
+(
+    [count] => 1
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 300
+)
+
+
+
+### 25.12.2019 14:48:32
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 14:48:33
+Array
+(
+    [count] => 1
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 14:48:38
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 14:58:22
+Array
+(
+    [count] => 4
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 14:58:22
+Array
+(
+    [count] => 4
+)
+
+
+
+### 25.12.2019 15:14:02
+Array
+(
+    [count] => 7
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:14:03
+Array
+(
+    [count] => 7
+)
+
+
+
+### 25.12.2019 15:14:04
+Array
+(
+    [count] => 7
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 65
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 66
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 67
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 68
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 69
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 70
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 1450
+)
+
+
+
+### 25.12.2019 15:14:05
+Array
+(
+    [count] => 7
+)
+
+
+
+### 25.12.2019 15:15:36
+Array
+(
+    [count] => 5
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 66
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 67
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 69
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 70
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 1150
+)
+
+
+
+### 25.12.2019 15:15:37
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 15:16:58
+Array
+(
+    [count] => 4
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 67
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 69
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 70
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 850
+)
+
+
+
+### 25.12.2019 15:16:58
+Array
+(
+    [count] => 4
+)
+
+
+
+### 25.12.2019 15:17:18
+Array
+(
+    [count] => 3
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 67
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 70
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 550
+)
+
+
+
+### 25.12.2019 15:17:19
+Array
+(
+    [count] => 3
+)
+
+
+
+### 25.12.2019 15:32:01
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 15:32:01
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 15:32:03
+Array
+(
+    [count] => 2
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 70
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 400
+)
+
+
+
+### 25.12.2019 15:32:04
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 15:32:05
+Array
+(
+    [count] => 2
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 70
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 400
+)
+
+
+
+### 25.12.2019 15:32:05
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 15:32:38
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 15:32:39
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 15:32:41
+Array
+(
+    [count] => 1
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 300
+)
+
+
+
+### 25.12.2019 15:32:41
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 15:39:32
+Array
+(
+    [count] => 1
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 300
+)
+
+
+
+### 25.12.2019 15:39:33
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 15:39:35
+Array
+(
+    [count] => 1
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:39:38
+Array
+(
+    [count] => 1
+)
+
+
+
+### 25.12.2019 15:40:11
+Array
+(
+    [count] => 2
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:40:12
+Array
+(
+    [count] => 2
+)
+
+
+
+### 25.12.2019 15:40:35
+Array
+(
+    [count] => 4
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:40:37
+Array
+(
+    [count] => 4
+)
+
+
+
+### 25.12.2019 15:40:42
+Array
+(
+    [count] => 5
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 71
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 72
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 73
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 74
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 1020
+)
+
+
+
+### 25.12.2019 15:40:42
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 15:42:45
+Array
+(
+    [count] => 4
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:42:46
+Array
+(
+    [count] => 4
+)
+
+
+
+### 25.12.2019 15:45:17
+Array
+(
+    [count] => 5
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:45:18
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 15:48:22
+Array
+(
+    [count] => 5
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:48:23
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 15:48:40
+Array
+(
+    [count] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 72
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 73
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 74
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 75
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 76
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+        )
+
+    [summ] => 1020
+)
+
+
+
+### 25.12.2019 15:48:40
+Array
+(
+    [count] => 6
+)
+
+
+
+### 25.12.2019 15:51:09
+Array
+(
+    [count] => 5
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 72
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 74
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 75
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 76
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+        )
+
+    [summ] => 850
+)
+
+
+
+### 25.12.2019 15:51:10
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 15:51:13
+Array
+(
+    [count] => 5
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:51:14
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 15:51:33
+Array
+(
+    [count] => 7
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 72
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 74
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 75
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 76
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 77
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 1250
+)
+
+
+
+### 25.12.2019 15:51:34
+Array
+(
+    [count] => 7
+)
+
+
+
+### 25.12.2019 15:51:58
+Array
+(
+    [count] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 72
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 74
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 75
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 77
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 1100
+)
+
+
+
+### 25.12.2019 15:51:59
+Array
+(
+    [count] => 6
+)
+
+
+
+### 25.12.2019 15:52:13
+Array
+(
+    [count] => 5
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 72
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 75
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 77
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 1000
+)
+
+
+
+### 25.12.2019 15:52:13
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 15:53:05
+Array
+(
+    [count] => 4
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:53:05
+Array
+(
+    [count] => 4
+)
+
+
+
+### 25.12.2019 15:58:29
+Array
+(
+    [count] => 5
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:58:30
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 15:59:23
+Array
+(
+    [count] => 6
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 15:59:24
+Array
+(
+    [count] => 6
+)
+
+
+
+### 25.12.2019 16:00:38
+Array
+(
+    [count] => 7
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:00:39
+Array
+(
+    [count] => 7
+)
+
+
+
+### 25.12.2019 16:00:41
+Array
+(
+    [count] => 7
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 72
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 77
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 80
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 81
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 1600
+)
+
+
+
+### 25.12.2019 16:00:42
+Array
+(
+    [count] => 7
+)
+
+
+
+### 25.12.2019 16:01:16
+Array
+(
+    [count] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 72
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 77
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 80
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+        )
+
+    [summ] => 1300
+)
+
+
+
+### 25.12.2019 16:01:17
+Array
+(
+    [count] => 6
+)
+
+
+
+### 25.12.2019 16:02:18
+Array
+(
+    [count] => 5
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:02:19
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 16:03:02
+Array
+(
+    [count] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 77
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 80
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 82
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 1450
+)
+
+
+
+### 25.12.2019 16:03:03
+Array
+(
+    [count] => 6
+)
+
+
+
+### 25.12.2019 16:04:01
+Array
+(
+    [count] => 5
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 77
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 80
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+        )
+
+    [summ] => 1150
+)
+
+
+
+### 25.12.2019 16:04:02
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 16:04:04
+Array
+(
+    [count] => 5
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:04:05
+Array
+(
+    [count] => 5
+)
+
+
+
+### 25.12.2019 16:05:08
+Array
+(
+    [count] => 6
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:05:09
+Array
+(
+    [count] => 6
+)
+
+
+
+### 25.12.2019 16:05:55
+Array
+(
+    [count] => 7
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:05:56
+Array
+(
+    [count] => 7
+)
+
+
+
+### 25.12.2019 16:06:13
+Array
+(
+    [count] => 8
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:06:14
+Array
+(
+    [count] => 8
+)
+
+
+
+### 25.12.2019 16:06:38
+Array
+(
+    [count] => 9
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:06:39
+Array
+(
+    [count] => 9
+)
+
+
+
+### 25.12.2019 16:07:09
+Array
+(
+    [count] => 10
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:07:10
+Array
+(
+    [count] => 10
+)
+
+
+
+### 25.12.2019 16:07:26
+Array
+(
+    [count] => 11
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:07:27
+Array
+(
+    [count] => 11
+)
+
+
+
+### 25.12.2019 16:08:44
+Array
+(
+    [count] => 13
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:08:46
+Array
+(
+    [count] => 13
+)
+
+
+
+### 25.12.2019 16:11:00
+Array
+(
+    [count] => 14
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:11:02
+Array
+(
+    [count] => 14
+)
+
+
+
+### 25.12.2019 16:11:19
+Array
+(
+    [count] => 16
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:11:20
+Array
+(
+    [count] => 16
+)
+
+
+
+### 25.12.2019 16:11:26
+Array
+(
+    [count] => 17
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:11:27
+Array
+(
+    [count] => 17
+)
+
+
+
+### 25.12.2019 16:11:33
+Array
+(
+    [count] => 18
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 77
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 80
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 84
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 85
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 86
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [12] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [13] => Array
+                (
+                    [basket_id] => 91
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [14] => Array
+                (
+                    [basket_id] => 92
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [15] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [16] => Array
+                (
+                    [basket_id] => 94
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [17] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 3490
+)
+
+
+
+### 25.12.2019 16:11:33
+Array
+(
+    [count] => 18
+)
+
+
+
+### 25.12.2019 16:14:20
+Array
+(
+    [count] => 14
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 80
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 84
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 85
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 86
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [12] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [13] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 2740
+)
+
+
+
+### 25.12.2019 16:14:21
+Array
+(
+    [count] => 14
+)
+
+
+
+### 25.12.2019 16:14:31
+Array
+(
+    [count] => 13
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 84
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 85
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 86
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [12] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 2590
+)
+
+
+
+### 25.12.2019 16:14:31
+Array
+(
+    [count] => 13
+)
+
+
+
+### 25.12.2019 16:14:36
+Array
+(
+    [count] => 13
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:14:37
+Array
+(
+    [count] => 13
+)
+
+
+
+### 25.12.2019 16:19:29
+Array
+(
+    [count] => 14
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:19:30
+Array
+(
+    [count] => 14
+)
+
+
+
+### 25.12.2019 16:23:12
+Array
+(
+    [count] => 15
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:23:13
+Array
+(
+    [count] => 15
+)
+
+
+
+### 25.12.2019 16:23:18
+Array
+(
+    [count] => 16
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 84
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 85
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 86
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [12] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [13] => Array
+                (
+                    [basket_id] => 96
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [14] => Array
+                (
+                    [basket_id] => 97
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [15] => Array
+                (
+                    [basket_id] => 98
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 3340
+)
+
+
+
+### 25.12.2019 16:23:19
+Array
+(
+    [count] => 16
+)
+
+
+
+### 25.12.2019 16:24:46
+Array
+(
+    [count] => 15
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 84
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 86
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [12] => Array
+                (
+                    [basket_id] => 96
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [13] => Array
+                (
+                    [basket_id] => 97
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [14] => Array
+                (
+                    [basket_id] => 98
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 3190
+)
+
+
+
+### 25.12.2019 16:24:47
+Array
+(
+    [count] => 15
+)
+
+
+
+### 25.12.2019 16:24:51
+Array
+(
+    [count] => 15
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:24:52
+Array
+(
+    [count] => 15
+)
+
+
+
+### 25.12.2019 16:25:17
+Array
+(
+    [count] => 16
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:25:17
+Array
+(
+    [count] => 16
+)
+
+
+
+### 25.12.2019 16:26:05
+Array
+(
+    [count] => 17
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:26:06
+Array
+(
+    [count] => 17
+)
+
+
+
+### 25.12.2019 16:26:32
+Array
+(
+    [count] => 18
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:26:33
+Array
+(
+    [count] => 18
+)
+
+
+
+### 25.12.2019 16:26:43
+Array
+(
+    [count] => 19
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 78
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 84
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 86
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [12] => Array
+                (
+                    [basket_id] => 96
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [13] => Array
+                (
+                    [basket_id] => 97
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [14] => Array
+                (
+                    [basket_id] => 98
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [15] => Array
+                (
+                    [basket_id] => 99
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [16] => Array
+                (
+                    [basket_id] => 100
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [17] => Array
+                (
+                    [basket_id] => 101
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [18] => Array
+                (
+                    [basket_id] => 102
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 4040
+)
+
+
+
+### 25.12.2019 16:26:43
+Array
+(
+    [count] => 19
+)
+
+
+
+### 25.12.2019 16:28:11
+Array
+(
+    [count] => 12
+    [error] => 
+    [action] => add
+    [buttonText] => Добавить
+    [name] => 
+    [feedtext] => 
+    [feedback] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 19
+                    [name] => Forrest Gump
+                    [feedback] => Life doesn't always turn out the way you planned
+                )
+
+            [1] => Array
+                (
+                    [id] => 18
+                    [name] => Петюня
+                    [feedback] => Привет от Петрушки
+                )
+
+            [2] => Array
+                (
+                    [id] => 17
+                    [name] => Luke Skywalker
+                    [feedback] => New DeathStar is born
+                )
+
+            [3] => Array
+                (
+                    [id] => 16
+                    [name] => Han Solo
+                    [feedback] => Hang in there Kid!
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [name] => Admin
+                    [feedback] => rm -rf
+                )
+
+            [5] => Array
+                (
+                    [id] => 5
+                    [name] => Yoda
+                    [feedback] => Try not, do or do not. There is no try
+                )
+
+            [6] => Array
+                (
+                    [id] => 4
+                    [name] => Darth Vader
+                    [feedback] => Luke, I am your father
+                )
+
+            [7] => Array
+                (
+                    [id] => 1
+                    [name] => Вася
+                    [feedback] => Привет от Васи
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:28:12
+Array
+(
+    [count] => 12
+)
+
+
+
+### 25.12.2019 16:28:13
+Array
+(
+    [count] => 12
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 99
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 100
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 102
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 2590
+)
+
+
+
+### 25.12.2019 16:28:14
+Array
+(
+    [count] => 12
+)
+
+
+
+### 25.12.2019 16:28:32
+Array
+(
+    [count] => 12
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 99
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 100
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 102
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 2590
+)
+
+
+
+### 25.12.2019 16:28:34
+Array
+(
+    [count] => 12
+)
+
+
+
+### 25.12.2019 16:33:37
+Array
+(
+    [count] => 12
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 99
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 100
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 102
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 2590
+)
+
+
+
+### 25.12.2019 16:33:38
+Array
+(
+    [count] => 12
+)
+
+
+
+### 25.12.2019 16:33:42
+Array
+(
+    [count] => 12
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:33:43
+Array
+(
+    [count] => 12
+)
+
+
+
+### 25.12.2019 16:34:09
+Array
+(
+    [count] => 13
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:34:10
+Array
+(
+    [count] => 13
+)
+
+
+
+### 25.12.2019 16:34:23
+Array
+(
+    [count] => 14
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 79
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 99
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 100
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 102
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [12] => Array
+                (
+                    [basket_id] => 103
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [13] => Array
+                (
+                    [basket_id] => 104
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 2990
+)
+
+
+
+### 25.12.2019 16:34:24
+Array
+(
+    [count] => 14
+)
+
+
+
+### 25.12.2019 16:35:22
+Array
+(
+    [count] => 13
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:35:23
+Array
+(
+    [count] => 13
+)
+
+
+
+### 25.12.2019 16:37:52
+Array
+(
+    [count] => 15
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:37:53
+Array
+(
+    [count] => 15
+)
+
+
+
+### 25.12.2019 16:39:52
+Array
+(
+    [count] => 16
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:39:53
+Array
+(
+    [count] => 16
+)
+
+
+
+### 25.12.2019 16:53:56
+Array
+(
+    [count] => 18
+    [goods] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Футболка
+                    [image] => shirt1.jpg
+                    [short_desc] => Мужская футболка
+                    [description] => Мужская футболка с модным принтом
+                    [price] => 100
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Блузка
+                    [image] => shirt2.jpg
+                    [short_desc] => Блузка женская
+                    [description] => Элегантная блузка для женщин
+                    [price] => 150
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Куртка
+                    [image] => shirt3.jpg
+                    [short_desc] => Куртка мужская
+                    [description] => Стильная мужская куртка с дутым эффектом
+                    [price] => 300
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Платье
+                    [image] => shirt4.jpg
+                    [short_desc] => Платье весеннее
+                    [description] => Весеннее платье с нарядным принтом
+                    [price] => 170
+                )
+
+            [4] => Array
+                (
+                    [id] => 7
+                    [name] => Платье
+                    [image] => shirt5.jpg
+                    [short_desc] => Платье в полоску
+                    [description] => Стильное и оригинальное платье в полоску
+                    [price] => 190
+                )
+
+        )
+
+)
+
+
+
+### 25.12.2019 16:53:58
+Array
+(
+    [count] => 18
+)
+
+
+
+### 25.12.2019 16:54:53
+Array
+(
+    [count] => 20
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 93
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 95
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 99
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [9] => Array
+                (
+                    [basket_id] => 100
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [10] => Array
+                (
+                    [basket_id] => 102
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [11] => Array
+                (
+                    [basket_id] => 103
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [12] => Array
+                (
+                    [basket_id] => 104
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [13] => Array
+                (
+                    [basket_id] => 105
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [14] => Array
+                (
+                    [basket_id] => 106
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [15] => Array
+                (
+                    [basket_id] => 107
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [16] => Array
+                (
+                    [basket_id] => 108
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [17] => Array
+                (
+                    [basket_id] => 109
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [18] => Array
+                (
+                    [basket_id] => 110
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [19] => Array
+                (
+                    [basket_id] => 111
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+        )
+
+    [summ] => 4140
+)
+
+
+
+### 25.12.2019 16:54:54
+Array
+(
+    [count] => 20
+)
+
+
+
+### 25.12.2019 16:57:49
+Array
+(
+    [count] => 9
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 87
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 99
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 102
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [8] => Array
+                (
+                    [basket_id] => 103
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 1890
+)
+
+
+
+### 25.12.2019 16:57:50
+Array
+(
+    [count] => 9
+)
+
+
+
+### 25.12.2019 16:58:48
+Array
+(
+    [count] => 8
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 58
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 83
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 88
+                    [good_id] => 2
+                    [name] => Блузка
+                    [price] => 150
+                    [image] => shirt2.jpg
+                )
+
+            [3] => Array
+                (
+                    [basket_id] => 89
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [4] => Array
+                (
+                    [basket_id] => 90
+                    [good_id] => 4
+                    [name] => Платье
+                    [price] => 170
+                    [image] => shirt4.jpg
+                )
+
+            [5] => Array
+                (
+                    [basket_id] => 99
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+            [6] => Array
+                (
+                    [basket_id] => 102
+                    [good_id] => 1
+                    [name] => Футболка
+                    [price] => 100
+                    [image] => shirt1.jpg
+                )
+
+            [7] => Array
+                (
+                    [basket_id] => 103
+                    [good_id] => 3
+                    [name] => Куртка
+                    [price] => 300
+                    [image] => shirt3.jpg
+                )
+
+        )
+
+    [summ] => 1720
+)
+
+
+
+### 25.12.2019 16:58:49
+Array
+(
+    [count] => 8
+)
+
+
+

@@ -14,7 +14,7 @@ document.addEventListener('click', async (e) => {
     });
     let result = await response.json();
     console.log(result);
-    document.getElementById('counter').innerHTML = result;
+    document.getElementById('counter').innerHTML = result['count'];
   }
 
   if (e.target.classList[0] === "delete") {
@@ -42,7 +42,7 @@ document.addEventListener('click', async (e) => {
     let idImg = e.target.id;
     let data = {
       idImg
-    }
+    };
 
     let response = await fetch('/api/catalogItem/', {
       method: 'POST',
