@@ -3,6 +3,11 @@ a {
     color: black;
 }
 
+.container{
+    max-width: 990px;
+    margin: 0 auto;
+}
+
 .menu-link__basket {
     position: relative;
 }

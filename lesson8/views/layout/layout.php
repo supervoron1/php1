@@ -7,11 +7,9 @@
     <script src="/js/main.js"></script>
 </head>
 <body>
-<div>
-	<?= $menu ?>
-</div>
-<div>
-	<?= $content ?>
+<div class="container">
+    <div><?= $menu ?></div>
+    <div><?= $content ?></div>
 </div>
 </body>
 </html>
