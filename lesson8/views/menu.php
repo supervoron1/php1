@@ -11,13 +11,13 @@
 <? endif; ?>
     <br>
 <div class="topmenu">
-    <a href="/">Главная</a>
-    <a href="/news/">Новости</a>
-    <a href="/catalog/">Каталог</a>
-    <a href="/feedback/">Отзывы</a>
-    <a href="/basket/" class="menu-link__basket">Корзина <span id="counter"><?= $count ?></span></a>
+    <a class="menu-link" href="/">Главная</a>
+    <a class="menu-link" href="/news/">Новости</a>
+    <a class="menu-link" href="/catalog/">Каталог</a>
+    <a class="menu-link" href="/feedback/">Отзывы</a>
+    <a class="menu-link bask" href="/basket/">Корзина <span id="counter"><?= $count ?></span></a>
 
 <? if (is_admin()): ?>
-    <a href="/orders/">Оформленные заказы</a>
+    <a class="menu-link" href="/orders/">Заказы</a>
 <? endif; ?>
 </div>

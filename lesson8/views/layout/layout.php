@@ -7,9 +7,12 @@
     <script src="/js/main.js"></script>
 </head>
 <body>
-<div class="container">
-    <div><?= $menu ?></div>
-    <div><?= $content ?></div>
+<div class="wrapper">
+    <div class="container">
+        <div><?= $menu ?></div>
+        <div><?= $content ?></div>
+    </div>
+    <div class="footer">&copy;<?=date('Y')?>All Rights Reserved</div>
 </div>
 </body>
 </html>
